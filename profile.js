@@ -15,7 +15,7 @@ const studentProfile = {
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "I am a high school student with a passion for science and a goal of becoming a pediatric emergency medicine physician. I am especially interested in cancer research and genetics because I want to better understand how diseases develop and how research can improve patient care. Through DREAM-High, I hope to gain hands-on research experience and strengthen my understanding of cancer biology. I am also excited to explore computational biology and learn how data analysis can be used to advance medical research.",
 
   /*
   Optional photo:
