@@ -39,12 +39,16 @@ const studentProfile = {
   rpubs: [
     {
       title: "Introduction to R",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/Nayannahill08/1448487"
     },
     {
       title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
-    }
+      url: "https://rpubs.com/Nayannahill08/1447157"
+    },
+     {
+      title: "TCGA Clinical Data",
+      url: "https://rpubs.com/Nayannahill08/1448475"
+    },
   ],
 
   /*
@@ -54,7 +58,7 @@ const studentProfile = {
   */
   finalProject: {
     title: "My DREAM-High Final Project",
-    description: "Write one or two sentences describing your final project.",
+    description: "My DREAM-High project, Fact or Fiction, is a cancer research project that explores common myths and misconceptions about cancer. Throughout the project, I will research scientific literature, analyze evidence, and determine whether common claims are supported by science or are simply myths. My goal is to promote accurate, evidence-based information about cancer.",
     url: ""
   },
 
@@ -65,7 +69,7 @@ const studentProfile = {
   github: [
     {
       title: "My GitHub Profile",
-      url: "https://github.com/"
+      url: "https://github.com/NayannaMH"
     }
   ]
 };
