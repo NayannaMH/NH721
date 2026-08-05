@@ -27,7 +27,7 @@ const studentProfile = {
   */
   photo: "",
 
-  contact: "Contact information available upon request.",
+  contact: "nayannamariah2008@gmail.com",
 
   /*
   RPubs activities:
@@ -49,7 +49,12 @@ const studentProfile = {
       title: "TCGA Clinical Data",
       url: "https://rpubs.com/Nayannahill08/1448475"
     },
+   {
+      title: "Heatmaps with TCGA Breast Cancer Gene Expression Data",
+      url: "https://rpubs.com/Nayannahill08/1449866"
+    },
   ],
+  
 
   /*
   Final project:
