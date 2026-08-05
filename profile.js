@@ -63,7 +63,7 @@ const studentProfile = {
   */
   finalProject: {
     title: "My DREAM-High Final Project",
-    description: "My DREAM-High project, Fact or Fiction, is a cancer research project that explores common myths and misconceptions about cancer. Throughout the project, I will research scientific literature, analyze evidence, and determine whether common claims are supported by science or are simply myths. My goal is to promote accurate, evidence-based information about cancer.",
+    description: "My DREAM-High project, Fact or Fiction, is a cancer research project that will explore common myths and misconceptions about cancer. Throughout the project, I will research scientific literature, analyze evidence, and determine whether common claims are supported by science or are simply myths. My goal is to promote accurate, evidence-based information about cancer.",
     url: ""
   },
 
