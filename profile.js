@@ -53,7 +53,12 @@ const studentProfile = {
       title: "Heatmaps with TCGA Breast Cancer Gene Expression Data",
       url: "https://rpubs.com/Nayannahill08/1449866"
     },
+  {
+      title: "Introduction to R",
+      url: "https://rpubs.com/Nayannahill08/1448487"
+    },
   ],
+   
   
 
   /*
