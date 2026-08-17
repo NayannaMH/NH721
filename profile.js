@@ -54,8 +54,8 @@ const studentProfile = {
       url: "https://rpubs.com/Nayannahill08/1449866"
     },
   {
-      title: "Introduction to R",
-      url: "https://rpubs.com/Nayannahill08/1448487"
+      title: "Breast Cancer Cell-Line",
+      url: "Unable to link"
     },
   ],
    
