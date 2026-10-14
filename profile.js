@@ -53,10 +53,6 @@ const studentProfile = {
       title: "Heatmaps with TCGA Breast Cancer Gene Expression Data",
       url: "https://rpubs.com/Nayannahill08/1449866"
     },
-  {
-      title: "Breast Cancer Cell-Line",
-      url: "Unable to link"
-    },
   ],
    
   
